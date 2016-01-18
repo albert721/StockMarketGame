@@ -1,0 +1,2 @@
+Stock: Kitty
+Start Amount: 14.0
